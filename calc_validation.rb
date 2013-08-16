@@ -23,6 +23,7 @@ class CalcValidation
 				end
 			end	
 		end
+		@result
 	end
 
 	def check_entrie_operation?(entrie_operation, rule_operation)
