@@ -52,6 +52,7 @@ class CalcValidation
 				@final << [r[:entrie][0], r[:rule][0], "N"]
 			end
 		end
+		@final
 	end
 
 	def generate_output_file
